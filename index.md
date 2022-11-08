@@ -1,4 +1,4 @@
-# FOSDEM 23 - Emulator Development Room CFP
+# [FOSDEM 23 - Emulator Development Room CFP](https://lists.fosdem.org/pipermail/fosdem/2022q4/003428.html)
 The Call for papers for the FOSDEM emulator development room is hereby open!
 
 At long last, the upcoming FOSDEM 23 will once again take place **IRL** at the [Université libre de Bruxelles, Belgium](https://fosdem.org/2023/practical/transportation/).

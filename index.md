@@ -28,6 +28,9 @@ Really **anything** goes, but here are some ideas (for inspiration):
 - Emulation history
 - ...
 
+#### Topic overlap
+Some topics might be suitable or overlap with other rooms (such as the [Virtualization room](https://fosdem.org/2023/schedule/track/virtualization_and_iaas/)). In such cases we might contact the speaker and point that out, but ultimately it is up to the speaker where the talk should land.
+
 #### Desirable speakers
 We honestly don't care. Experienced speakers are very welcome, but hobbyists and/or first time speakers are equally welcome. As long as you have passion and/or knowledge you care to share.
 

@@ -46,6 +46,7 @@ Create an **event** and click on **Show all** in the top right corner to display
 - title (funny titles are ~~required~~/appreciated)
 - abstract (what you're gonna talk about)
 - duration
+- **type of event** (on-campus/online)
 
 ### Important Dates
 - **December 15th: submission deadline**
